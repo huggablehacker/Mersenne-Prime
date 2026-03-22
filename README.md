@@ -202,20 +202,7 @@ s² mod M_p:
 
 ## 📄 Academic Paper
 
-A full peer-review-ready paper in AMS *Mathematics of Computation* (MCOM) LaTeX format is included in this repository:
-
-- [`paper/mersenne_prime_paper.tex`](paper/mersenne_prime_paper.tex) — main LaTeX source
-- [`paper/mersenne_code_clean.py`](paper/mersenne_code_clean.py) — ASCII-clean code for inclusion
-
-To compile: upload both files to [Overleaf](https://www.overleaf.com) (the `mcom-l` class is pre-installed) and hit Compile.
-
-The paper covers:
-- Full proof of the Lucas–Lehmer theorem
-- Trial factor sieve with number-theoretic justification (Theorem on Mersenne divisor form)
-- Wagstaff's conjecture on Mersenne prime density
-- GPU big-integer algorithm (IBDWT equivalence)
-- Performance analysis and extrapolation
-- 11 peer-reviewed references
+A full peer-review-ready paper in AMS *Mathematics of Computation* (MCOM) LaTeX format is included in this repository.
 
 ---
 
